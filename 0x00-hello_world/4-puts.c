@@ -1,9 +1,9 @@
-include < stdio.h >
+include <stdio.h>
 
 /**
  * main - Entry point
  *
- * Description: Entry point for all C programs
+ * Description: 'Entry point for all C programs'
  *
  * Return: Always 0 (Success)
  */
